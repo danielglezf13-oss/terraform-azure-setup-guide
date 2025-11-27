@@ -1,2 +1,2 @@
-# instalacion-y-configuracion-azure-en-terraform
-Se muestran los pasos para instalar y configurar azure para su correcto uso en terraform
+# Terraform-azure-setup-guide
+Guía de inicio rápido (Bootstrapping) para configurar el entorno de Azure y preparar el 'provider' de Azure para su uso correcto en proyectos de Terraform.
